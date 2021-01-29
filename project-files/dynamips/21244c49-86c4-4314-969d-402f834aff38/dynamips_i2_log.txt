@@ -1,0 +1,41 @@
+Jan 29 15:46:13.812 HYPERVISOR: Release 0.2.17-x86/Windows (tag 2017072410)
+Jan 29 15:46:13.813 HYPERVISOR: Started on IP = localhost, TCP port = 50636.
+Jan 29 15:46:14.293 HYPERVISOR: exec_cmd: hypervisor version 
+Jan 29 15:46:14.293 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Meclotfi\Downloads\project_resa.gns3project\project-files\dynamips 
+Jan 29 15:46:14.293 GENERAL: working_dir=C:\Users\Meclotfi\Downloads\project_resa.gns3project\project-files\dynamips
+Jan 29 15:46:14.294 HYPERVISOR: exec_cmd: hypervisor working_dir C:\Users\Meclotfi\Downloads\project_resa.gns3project\project-files\dynamips\08fe20af-0dad-4436-8b88-5198cb3e12a6 
+Jan 29 15:46:14.295 GENERAL: working_dir=C:\Users\Meclotfi\Downloads\project_resa.gns3project\project-files\dynamips\08fe20af-0dad-4436-8b88-5198cb3e12a6
+Jan 29 15:46:14.296 HYPERVISOR: exec_cmd: vm create CE6 3 c3725 
+Jan 29 15:46:14.341 VM: VM CE6 created.
+Jan 29 15:46:14.342 HYPERVISOR: exec_cmd: vm set_con_tcp_port CE6 5002 
+Jan 29 15:46:14.343 HYPERVISOR: exec_cmd: c3725 get_mac_addr CE6 
+Jan 29 15:46:14.343 HYPERVISOR: exec_cmd: vm set_disk0 CE6 0 
+Jan 29 15:46:14.344 HYPERVISOR: exec_cmd: vm set_exec_area CE6 64 
+Jan 29 15:46:14.345 HYPERVISOR: exec_cmd: vm get_status CE6 
+Jan 29 15:46:14.345 HYPERVISOR: exec_cmd: vm set_idle_pc CE6 0x60bf8ba0 
+Jan 29 15:46:14.347 HYPERVISOR: exec_cmd: vm set_ios CE6 C:/Users/Meclotfi/GNS3/images/IOS/c3725-adventerprisek9-mz124-15.image 
+Jan 29 15:46:14.348 HYPERVISOR: exec_cmd: c3725 set_mac_addr CE6 c203.0a5c.0000 
+Jan 29 15:46:14.349 HYPERVISOR: exec_cmd: vm set_nvram CE6 256 
+Jan 29 15:46:14.350 HYPERVISOR: exec_cmd: vm get_status CE6 
+Jan 29 15:46:14.350 HYPERVISOR: exec_cmd: vm slot_add_binding CE6 1 0 NM-1FE-TX 
+Jan 29 15:46:14.351 HYPERVISOR: exec_cmd: vm get_status CE6 
+Jan 29 15:46:14.351 HYPERVISOR: exec_cmd: vm slot_add_binding CE6 2 0 NM-4T 
+Jan 29 15:46:14.352 HYPERVISOR: exec_cmd: vm get_status CE6 
+Jan 29 15:46:14.353 HYPERVISOR: exec_cmd: vm slot_add_binding CE6 0 16 WIC-1T 
+Jan 29 15:46:14.353 HYPERVISOR: exec_cmd: vm get_status CE6 
+Jan 29 15:46:14.354 HYPERVISOR: exec_cmd: vm slot_add_binding CE6 0 32 WIC-2T 
+Jan 29 15:46:26.289 HYPERVISOR: exec_cmd: nio create_udp udp-cbd98feb-10ad-420c-b8ff-fd531fdfecca 10062 127.0.0.1 10063 
+Jan 29 15:46:26.536 HYPERVISOR: exec_cmd: vm slot_add_nio_binding CE6 2 0 udp-cbd98feb-10ad-420c-b8ff-fd531fdfecca 
+Jan 29 15:46:26.537 HYPERVISOR: exec_cmd: vm get_status CE6 
+Jan 29 15:46:27.949 HYPERVISOR: exec_cmd: nio create_udp udp-5b523d21-5851-4f21-8883-5038139af40e 10102 127.0.0.1 10103 
+Jan 29 15:46:27.951 HYPERVISOR: exec_cmd: vm slot_add_nio_binding CE6 0 0 udp-5b523d21-5851-4f21-8883-5038139af40e 
+Jan 29 15:46:27.951 HYPERVISOR: exec_cmd: vm get_status CE6 
+Jan 29 15:56:21.069 HYPERVISOR: exec_cmd: vm get_status CE6 
+Jan 29 15:56:21.069 HYPERVISOR: exec_cmd: vm extract_config CE6 
+Jan 29 15:56:22.161 HYPERVISOR: exec_cmd: vm get_status CE6 
+Jan 29 15:56:22.162 HYPERVISOR: exec_cmd: vm extract_config CE6 
+Jan 29 15:56:22.163 HYPERVISOR: exec_cmd: vm delete CE6 
+Jan 29 15:56:22.163 VM: VM CE6 destroyed.
+Jan 29 15:56:22.164 HYPERVISOR: exec_cmd: hypervisor stop 
+Jan 29 15:56:22.466 HYPERVISOR: Stopped.
+Jan 29 15:56:22.467 GENERAL: reset done.
