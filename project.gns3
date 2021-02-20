@@ -75,7 +75,7 @@
                 "drawing_id": "90b5dfa3-3cfb-49f8-8d84-2e2a2a640706",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"24\" width=\"92\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">15.0.15.0/30</text></svg>",
+                "svg": "<svg height=\"29\" width=\"121\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">15.0.15.0/30</text></svg>",
                 "x": -386,
                 "y": -113,
                 "z": 2
@@ -84,7 +84,7 @@
                 "drawing_id": "18f84809-94ea-4528-acaf-f51c4f139e45",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"24\" width=\"92\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">15.1.15.0/30</text></svg>",
+                "svg": "<svg height=\"29\" width=\"121\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">15.1.15.0/30</text></svg>",
                 "x": -246,
                 "y": -73,
                 "z": 2
@@ -211,8 +211,8 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"325.26911934581204\" width=\"571.3422791987311\"><ellipse cx=\"285\" cy=\"162\" fill=\"#ffffff\" fill-opacity=\"1.0\" rx=\"286\" ry=\"163\" stroke=\"#000000\" stroke-width=\"2\" /></svg>",
-                "x": -561,
-                "y": -344,
+                "x": -558,
+                "y": -345,
                 "z": 0
             },
             {
@@ -904,14 +904,14 @@
             },
             {
                 "filters": {},
-                "link_id": "10ad5b43-e652-4bb4-b999-b748534136da",
+                "link_id": "f632cf93-a1ce-476a-8736-dd9214fb1fca",
                 "nodes": [
                     {
-                        "adapter_number": 1,
+                        "adapter_number": 0,
                         "label": {
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "f1/0",
+                            "text": "f0/0",
                             "x": 71,
                             "y": 33
                         },
@@ -1444,7 +1444,7 @@
                 "symbol": ":/symbols/router.svg",
                 "template_id": "aab444f0-92e6-47d0-bcfc-70712f490c70",
                 "width": 66,
-                "x": -279,
+                "x": -277,
                 "y": -134,
                 "z": 1
             },
