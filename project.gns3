@@ -21,7 +21,7 @@
                 "drawing_id": "8f6b6fea-40c9-4ba0-8d6c-8ccd76ca0a5f",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"24\" width=\"92\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">10.5.15.0/24</text></svg>",
+                "svg": "<svg height=\"29\" width=\"121\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">10.5.15.0/24</text></svg>",
                 "x": -447,
                 "y": -234,
                 "z": 2
@@ -84,7 +84,7 @@
                 "drawing_id": "18f84809-94ea-4528-acaf-f51c4f139e45",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"29\" width=\"121\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">15.1.15.0/30</text></svg>",
+                "svg": "<svg height=\"24\" width=\"92\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">15.1.15.0/30</text></svg>",
                 "x": -246,
                 "y": -73,
                 "z": 2
@@ -183,9 +183,9 @@
                 "drawing_id": "30114bbd-9f84-428b-98ac-e160c286be81",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"24\" width=\"92\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">12.1.15.0/30</text></svg>",
-                "x": 170,
-                "y": 179,
+                "svg": "<svg height=\"29\" width=\"121\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">12.1.15.0/30</text></svg>",
+                "x": 151,
+                "y": 191,
                 "z": 2
             },
             {
@@ -198,30 +198,12 @@
                 "z": 2
             },
             {
-                "drawing_id": "5e308bc2-eef9-4649-92f4-cc37e64572f1",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg height=\"325.26911934581204\" width=\"624.9869401394031\"><ellipse cx=\"312\" cy=\"162\" fill=\"#ffffff\" fill-opacity=\"1.0\" rx=\"313\" ry=\"163\" stroke=\"#000000\" stroke-width=\"2\" /></svg>",
-                "x": -89,
-                "y": -345,
-                "z": 0
-            },
-            {
-                "drawing_id": "438f32f6-11b2-4471-adfa-02133a3ba0e5",
-                "locked": false,
-                "rotation": 0,
-                "svg": "<svg height=\"325.26911934581204\" width=\"571.3422791987311\"><ellipse cx=\"285\" cy=\"162\" fill=\"#ffffff\" fill-opacity=\"1.0\" rx=\"286\" ry=\"163\" stroke=\"#000000\" stroke-width=\"2\" /></svg>",
-                "x": -708,
-                "y": -351,
-                "z": 0
-            },
-            {
                 "drawing_id": "45c2f12c-0499-473f-bae6-9687b9b47b35",
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"325.26911934581204\" width=\"676.2905473706228\"><ellipse cx=\"338\" cy=\"162\" fill=\"#ffffff\" fill-opacity=\"1.0\" rx=\"339\" ry=\"163\" stroke=\"#000000\" stroke-width=\"2\" /></svg>",
-                "x": -69,
-                "y": 18,
+                "x": -30,
+                "y": 2,
                 "z": 0
             },
             {
@@ -291,9 +273,9 @@
                 "drawing_id": "fb28b600-6ad6-427e-96fa-126705eed19c",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"33\" width=\"109\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"16.0\" font-weight=\"bold\">Magasin2</text></svg>",
-                "x": -691,
-                "y": -225,
+                "svg": "<svg height=\"41\" width=\"137\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"16.0\" font-weight=\"bold\">Magasin2</text></svg>",
+                "x": -719,
+                "y": -244,
                 "z": 2
             },
             {
@@ -322,6 +304,24 @@
                 "x": 525,
                 "y": 285,
                 "z": 2
+            },
+            {
+                "drawing_id": "f8ba5d2b-e7b9-422c-a6ae-9936186b479e",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"271.1267605633803\" width=\"624.4507042253522\"><ellipse cx=\"312\" cy=\"135\" fill=\"#ffffff\" fill-opacity=\"1.0\" rx=\"313\" ry=\"136\" stroke=\"#000000\" stroke-width=\"2\" /></svg>",
+                "x": -52,
+                "y": -285,
+                "z": 0
+            },
+            {
+                "drawing_id": "2080e42e-85dd-4746-8b83-0e40be5d886f",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"252.54929577464804\" width=\"568.887323943662\"><ellipse cx=\"284\" cy=\"126\" fill=\"#ffffff\" fill-opacity=\"1.0\" rx=\"285\" ry=\"127\" stroke=\"#000000\" stroke-width=\"2\" /></svg>",
+                "x": -621,
+                "y": -279,
+                "z": 0
             }
         ],
         "links": [
@@ -506,68 +506,6 @@
                             "y": -4
                         },
                         "node_id": "4d0cb1e6-7ce2-4126-84d0-f29a9b721668",
-                        "port_number": 0
-                    }
-                ],
-                "suspend": false
-            },
-            {
-                "filters": {},
-                "link_id": "379e9ece-2c60-40e9-8dbe-efef30ad0552",
-                "nodes": [
-                    {
-                        "adapter_number": 2,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "s2/0",
-                            "x": 33,
-                            "y": 22
-                        },
-                        "node_id": "2b495bec-05f2-4454-904a-060535c2b233",
-                        "port_number": 0
-                    },
-                    {
-                        "adapter_number": 2,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "s2/1",
-                            "x": 33,
-                            "y": 22
-                        },
-                        "node_id": "4d8e239c-51e4-492e-86ab-9f7e93b9718c",
-                        "port_number": 1
-                    }
-                ],
-                "suspend": false
-            },
-            {
-                "filters": {},
-                "link_id": "bf456a62-a373-4d3b-8940-7fc312d0fe29",
-                "nodes": [
-                    {
-                        "adapter_number": 2,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "s2/0",
-                            "x": 33,
-                            "y": 22
-                        },
-                        "node_id": "d021e548-2da3-41c6-92ee-df67dbbb6448",
-                        "port_number": 0
-                    },
-                    {
-                        "adapter_number": 2,
-                        "label": {
-                            "rotation": 0,
-                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
-                            "text": "s2/0",
-                            "x": 33,
-                            "y": 22
-                        },
-                        "node_id": "7d7e094d-03a3-4405-9917-44b522d319cf",
                         "port_number": 0
                     }
                 ],
@@ -932,6 +870,68 @@
                     }
                 ],
                 "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "4361358d-3973-4320-936b-45022ce9a987",
+                "nodes": [
+                    {
+                        "adapter_number": 2,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "s2/0",
+                            "x": 33,
+                            "y": 22
+                        },
+                        "node_id": "d021e548-2da3-41c6-92ee-df67dbbb6448",
+                        "port_number": 0
+                    },
+                    {
+                        "adapter_number": 2,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "s2/0",
+                            "x": 33,
+                            "y": 22
+                        },
+                        "node_id": "7d7e094d-03a3-4405-9917-44b522d319cf",
+                        "port_number": 0
+                    }
+                ],
+                "suspend": false
+            },
+            {
+                "filters": {},
+                "link_id": "bb9e19df-667f-4574-8cf9-467f2aed6f09",
+                "nodes": [
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "f0/1",
+                            "x": 72,
+                            "y": 19
+                        },
+                        "node_id": "2b495bec-05f2-4454-904a-060535c2b233",
+                        "port_number": 1
+                    },
+                    {
+                        "adapter_number": 0,
+                        "label": {
+                            "rotation": 0,
+                            "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
+                            "text": "f0/1",
+                            "x": -6,
+                            "y": 24
+                        },
+                        "node_id": "4d8e239c-51e4-492e-86ab-9f7e93b9718c",
+                        "port_number": 1
+                    }
+                ],
+                "suspend": false
             }
         ],
         "nodes": [
@@ -965,7 +965,7 @@
                     "dynamips_id": 1,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1022,7 +1022,7 @@
                     "dynamips_id": 3,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1079,7 +1079,7 @@
                     "dynamips_id": 4,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1136,7 +1136,7 @@
                     "dynamips_id": 5,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1193,7 +1193,7 @@
                     "dynamips_id": 6,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1250,7 +1250,7 @@
                     "dynamips_id": 7,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1307,7 +1307,7 @@
                     "dynamips_id": 8,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1364,7 +1364,7 @@
                     "dynamips_id": 9,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1421,7 +1421,7 @@
                     "dynamips_id": 10,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1478,7 +1478,7 @@
                     "dynamips_id": 11,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1535,7 +1535,7 @@
                     "dynamips_id": 12,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1592,7 +1592,7 @@
                     "dynamips_id": 13,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1649,7 +1649,7 @@
                     "dynamips_id": 14,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
@@ -1706,7 +1706,7 @@
                     "dynamips_id": 2,
                     "exec_area": 64,
                     "idlemax": 500,
-                    "idlepc": "0x60bf8288",
+                    "idlepc": "0x60bf8ba0",
                     "idlesleep": 30,
                     "image": "c3725-adventerprisek9-mz124-15.image",
                     "image_md5sum": "1c950444f3261338c3d42e72a6ded980",
